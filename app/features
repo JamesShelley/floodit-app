@@ -1,0 +1,7 @@
+James Shelley - s4923268 - tested using a nexus 5x emulator.
+
+1. A menu system with 2 buttons - play and instructions.
+2. If you click play you can choose between 4 difficulty settings which change the max amount of moves you can make.
+3. There are animations between each view.
+4. You win if your game counter is less than the max counter and lose if it is greater.
+5. Logo in app and also icon has been changed.

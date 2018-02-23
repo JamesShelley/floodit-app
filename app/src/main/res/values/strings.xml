@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">s4923268 Floodit App</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="instructions">The aim of the game is too flood the screen with the same Colour. Starting in the top left hand corner, click the square and the squares adjacent to it will change to that colour. Continue until the whole boad is the same colour.</string>
+    <string name="medium_difficulty">Medium</string>
+    <string name="very_hard_difficulty">Very Hard</string>
+    <string name="hard_difficulty">Hard</string>
+    <string name="easy_difficulty">Easy</string>
+    <string name="select_difficulty">Select Difficulty</string>
+    <string name="play_now_button">PLAY NOW</string>
+    <string name="instructions_title">Instructions</string>
+    <string name="more_instructions">There are 4 difficulty settings to choose from, each will reduce the possible number of moves you can take.</string>
+    <string name="instructions_button">Instructions</string>
+    <string name="settings_button">Settings</string>
+    <string name="play_button">Play</string>
+    <string name="flood_it_title">FLOOD IT!</string>
+    <string name="image_desc">Logo</string>
+    <string name="settings_title">Settings</string>
+</resources>
